@@ -1,16 +1,16 @@
 import './App.css';
 import AWD from "./Atomic Web Design";
 import NM from "./No Methods";
-import VCT from "./View Content Trigger";
+import TC from "./Template Content";
 
 function App() {
-  return (
-    <div>
-      <AWD/>
-      <NM/>
-      <VCT/>
-    </div>
-  );
+    return (
+        <div>
+            <AWD/>
+            <NM/>
+            <TC/>
+        </div>
+    );
 }
 
 export default App;

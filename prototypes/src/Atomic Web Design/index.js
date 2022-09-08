@@ -48,10 +48,10 @@ export default function AWD(){
         </div>
         <div className={'footer'}>
             <div className={'footer__info'}>
-                <div className={'footer_info--contact'}>
+                <div className={'footer__info--contact'}>
                     Contact
                 </div>
-                <div className={'footer_info--channels'}>
+                <div className={'footer__info--channels'}>
                     Channels
                 </div>
             </div>
